@@ -2,10 +2,6 @@
 
 Welcome to the Uber Eats Clone repository! This is a React Native application that replicates the functionality of the popular food delivery service, Uber Eats. This README will provide you with an overview of the project, its features, and how to get started.
 
-## Table of Contents
-- [Features](#features)
-- [Getting Started](#getting-started)
-
 ## Features
 
 - **Authentication screen:** UI ready, auth system is in process
